@@ -128,11 +128,10 @@
 ![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=ghidion1&langs_count=5&layout=compact&theme=tokyonight)
 
 ---
-### GitHub Activity Graph
+### GitHub Activity Stats
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ghidion1&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&area=true&area_color=000000)
+![GitHub Activity Stats](https://github-readme-stats.vercel.app/api?username=ghidion1&show_icons=true&count_private=true&hide=prs&theme=tokyonight)
 
----
 
 ### My Streak
 
