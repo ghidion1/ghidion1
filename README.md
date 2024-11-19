@@ -114,6 +114,9 @@
   <a href="https://unity.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
   </a>
+  <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank">
+    <img src="https://raw.githubusercontent.com/detain/svg-logos/78089165020d4e2fe131da5e5f38734201e9d9e2/logos/xamarin.svg" alt="Xamarin" width="40" height="40"/>
+  </a>
 </p>
 
 ---
@@ -127,3 +130,33 @@
 ### My Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ghidion1&theme=tokyonight)
+
+---
+
+### Top Projects
+
+#### [Project Name 1](https://github.com/ghidion1/project-1)
+Description: A brief description of the project. You can highlight your role in the project, technologies used, and challenges faced.
+
+#### [Project Name 2](https://github.com/ghidion1/project-2)
+Description: A brief description of the project. Add a link to the live version if available.
+
+#### [Project Name 3](https://github.com/ghidion1/project-3)
+Description: Highlight the technologies and features in this project.
+
+---
+
+### GitHub Activity
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ghidion1&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&area=true&area_color=000000)
+
+---
+
+### Contributions
+
+- 🔧 Contributed to **[Repo1](https://github.com/username/repo1)** by fixing bugs and improving code performance.
+- 🎨 Helped design the UI of **[Repo2](https://github.com/username/repo2)** using TailwindCSS.
+- 🛠 Participated in the development of **[Repo3](https://github.com/username/repo3)**, focusing on backend integration.
+
+---
+
