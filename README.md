@@ -128,9 +128,10 @@
 ![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=ghidion1&langs_count=5&layout=compact&theme=tokyonight)
 
 ---
-### GitHub Contribution Calendar
+### GitHub Contribution Graph
 
-![GitHub Contribution Calendar](https://github-contribution-stats.vercel.app/api?username=ghidion1&count_private=true)
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=ghidion1&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&area=true&area_color=000000)
+---
 
 
 
