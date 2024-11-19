@@ -128,9 +128,9 @@
 ![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=ghidion1&langs_count=5&layout=compact&theme=tokyonight)
 
 ---
-### GitHub Activity Stats
+### My GitHub Wakatime Activity
 
-![GitHub Activity Stats](https://github-readme-stats.vercel.app/api?username=ghidion1&show_icons=true&count_private=true&hide=prs&theme=tokyonight)
+![Wakatime Graph](https://wakatime.com/share/@ghidion1/graph.svg)
 
 
 ### My Streak
